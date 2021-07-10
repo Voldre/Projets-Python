@@ -1,2 +1,2 @@
-# Traitement_du_signal
-Liste de mes TP réalisés dans le cadre des cours sur le Traitement du signal et de l'image.
+# Projets Python
+Liste de mes projets réalisés dans le cadre de mes études.
